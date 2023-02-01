@@ -1,19 +1,19 @@
 - name: Hello World Sample
   hosts: all
   tasks:
-    - name: Hello Sandeep
+    - name: Hello Sandeep1
       debug:
         msg: "Hello Sandeep!"
-    - name: Hello Sandeep
+    - name: Hello Sandeep2
       debug:
         msg: "Hello Sandeep!"
-    - name: Hello Sandeep
+    - name: Hello Sandeep3
       debug:
         msg: "Hello Sandeep!"
-    - name: Hello Sandeep
+    - name: Hello Sandeep4
       debug:
         msg: "Hello Sandeep!"
-    - name: Hello Sandeep
+    - name: Hello Sandeep5
       debug:
         msg: "Hello Sandeep!"
     - name: Hello Sandeep
